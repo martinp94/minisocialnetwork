@@ -1,7 +1,5 @@
 
 
-// CHECK IF DOM IS READY
-
 function newMessageFormCreator(e) {
 
 	const msgContainer = document.querySelector("#msgContainer");

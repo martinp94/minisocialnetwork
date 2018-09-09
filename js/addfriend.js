@@ -29,8 +29,7 @@
     		}
 		}
 
-		xhr.send(`data=${data}`); 
-		//xhr.send({'aca' : data}); 
+		xhr.send(`data=${data}`);
 	}
 
 	
